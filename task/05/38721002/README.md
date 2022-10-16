@@ -36,24 +36,24 @@ Tuliskan empat jurnal bidang Anda, yang mungkin kelak akan menjadi target Anda m
 
 + [Jawaban 2]()
 + List target jurnal untuk masing-masing quartil <br>
-a.	**ACS Applied Energy Materials** (https://pubs.acs.org/journal/aaemcq)<br>
+**a. ACS Applied Energy Materials** [link](https://pubs.acs.org/journal/aaemcq)<br>
 Masuk dalam **kategori Q1**, dengan nilai SJR 2021 (1.61) [1,2]<br>
-b.	**Journal of Solid State Electrochemistry** (https://www.springer.com/journal/10008)<br> 
+**b. Journal of Solid State Electrochemistry** [link](https://www.springer.com/journal/10008)<br> 
 Masuk dalam **kategori Q2**, dengan nilai SJR 2021 (0.53) [3,4]<br>
-c.	**The Electrochemical Society Interface** (https://iopscience.iop.org/journal/1944-8783)<br>
+**c. The Electrochemical Society Interface** [link](https://iopscience.iop.org/journal/1944-8783)<br>
 Masuk dalam **kategori Q3**, dengan nilai SJR 2021 (0.564) [5,6]<br>
-d.	**Journal of Electrochemical Science and Technology** (https://www.jecst.org/) <br>
+**d. Journal of Electrochemical Science and Technology** [link](https://www.jecst.org/) <br>
 Masuk dalam **kategori Q4**, dengan nilai SJR 2021 (0.459) [7,8]<br>
 
-Tautan:<br>
-[1] https://www.scimagojr.com/journalsearch.php?q=21100904205&tip=sid&clean=0 <br>
-[2] https://www.scopus.com/sourceid/21100904205 <br>
-[3] https://www.scimagojr.com/journalsearch.php?q=25199&tip=sid&clean=0 <br>
-[4] https://www.scopus.com/sourceid/25199 <br>
-[5] https://www.scimagojr.com/journalsearch.php?q=25168&tip=sid&clean=0 <br>
-[6] https://www.scopus.com/sourceid/25168 <br>
-[7] https://www.scimagojr.com/journalsearch.php?q=21100399753&tip=sid&clean=0 <br>
-[8] https://www.scopus.com/sourceid/21100399753 
++ Tautan:<br>
+[1] ACS Applied Energy Materials identification in [Scimagojr.com](https://www.scimagojr.com/journalsearch.php?q=21100904205&tip=sid&clean=0) <br>
+[2] ACS Applied Energy Materials identification in [Scopus.com](https://www.scopus.com/sourceid/21100904205) <br>
+[3] Journal of Solid State Electrochemistry identification in [Scimagojr.com](https://www.scimagojr.com/journalsearch.php?q=25199&tip=sid&clean=0) <br>
+[4] Journal of Solid State Electrochemistry identification in [Scopus.com](https://www.scopus.com/sourceid/25199) <br>
+[5] The Electrochemical Society Interface identification in [Scimagojr.com](https://www.scimagojr.com/journalsearch.php?q=25168&tip=sid&clean=0) <br>
+[6] The Electrochemical Society Interface identification in [Scopus.com](https://www.scopus.com/sourceid/25168) <br>
+[7] Journal of Electrochemical Science and Technology in [Scimagojr.com](https://www.scimagojr.com/journalsearch.php?q=21100399753&tip=sid&clean=0) <br>
+[8] Journal of Electrochemical Science and Technology in [Scopus.com](https://www.scopus.com/sourceid/21100399753)
 
 
 
