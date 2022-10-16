@@ -112,7 +112,8 @@ k.	Penulis diminta menandatangai pengalihan hak cipta di awal, sebelum proses pe
 l.	Menerbitkan artikel sebelum persetujuan penerbitan ditandatangani dan menolak menariknya bila penulis membatalkan pengiriman artikelnya.<br>
 m.	Menghapus artikel atau keseluruhan jurnal dari web tanpa peringatan atau informasi pada para penulis.<br>
 
-Tautan:<br>[Elmore SA, Weston EH. Predatory Journals: What They Are and How to Avoid Them. Toxicol Pathol. 2020 Jun;48(4):607-610.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237319/) 
+Tautan:<br>[Elmore SA, Weston EH. Predatory Journals: What They Are and How to Avoid Them. Toxicol Pathol. 2020 Jun;48(4):607-610.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237319/) <br>
+[Beall's List of Potential Predatory Journals and Publishers](https://beallslist.net/)
 
 
 
@@ -120,7 +121,19 @@ Tautan:<br>[Elmore SA, Weston EH. Predatory Journals: What They Are and How to A
 Apa yang dimaksud dengan jurnal akses terbuka? Jelaskan dengan memberikan rujukan yang digunakan.
 
 
-+ [Jawaban]()
++ [Jawaban 7]()
+
+a.	Jurnal akses terbuka atau *open access journal* adalah jurnal yang telah diterbitkan (telah selesai proses pree-review dna penyuntingan) yang dapat diakses dan diunduh dengan bebas oleh setiap orang [1]. <br>
+b.	Jurnal akses terbuka adalah jurnal dengan teks penuh (*full texts*) yang tersedia dan dapat diakses gratis di laman website/internet. Dengan demikian pembaca dapat secara bebas membaca, mengunduh dan mencetaknya [2].<br>
+c.	Jurnal akses terbuka adalah jurnal yang secara digital tersedia secara daring dan bebas diakses, tidak dikenai biaya dan sering hanya mempersyaratkan hak cipta dan lisensi yang tak terlalu membatasi, bila dibandingkan dengan karya yang diterbitkan secara tradisional, baik bagi pengguna (pembaca) maupun penulis [3].<br>
+d.	Jurnal akses terbuka menawarkan akses bebas pada informasi dan penggunaan tak-terbatas sumber daya elektronik bagi setiap orang, di mana semua jenis konten digital dapat dibuat berakses terbuka, mulai dari teks sampai piranti lunak, suara, video, dan multi-media [4].<br>
+
+Tautan:<br>
+[1] [Elsevier, Open access journals](https://www.elsevier.com/open-access/open-access-journals)<br>
+[2] [Lukman, Ekawati Marlina, Ratih Keumalasari, AlHafiz Akbar, Slamet Ryanto, Perkembangan open access jurnal ilmiah Indonesia, 2012](https://www.researchgate.net/publication/263008807_Perkembangan_Open_Access_Jurnal_Ilmiah_Indonesia)<br>
+[3] [Cornell University Library, Open Access Publishing: What is Open Access?](https://guides.library.cornell.edu/openaccess)<br>
+[4] [UNESCO Open Access Publication, What is open access?](https://en.unesco.org/open-access/what-open-access)
+
 
 
 ## soal 8
