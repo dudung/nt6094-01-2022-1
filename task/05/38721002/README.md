@@ -162,4 +162,18 @@ paper =  27
 citation =  [8, 18, 12, 6, 16, 18, 9, 18, 15, 13, 17, 17, 19, 8, 16, 13, 7, 12, 10, 12, 6, 11, 12, 5, 10, 7, 16] 
 ```
 
-+ [Jawaban]()
++ [Jawaban 10]()
+
+H-indek adalah metrik/ukuran yang digunakan untuk mengukur impak luaran seorang ilmuan dalam bidang tertentu yang ditentukan dengan cara menghitung jumlah ‘h’ publikasi seseorang yang memiliki sitasi setidaknya ‘h’ buah.<br>
+
+Dari contoh yang diberikan, seseorang memiliki 27 buah publikasi dengan list sitasi dari ke-27 publikasinya adalah sebagi berikut<br>
+[8, 18, 12, 6, 16, 18, 9, 18, 15, 13, 17, 17, 19, 8, 16, 13, 7, 12, 10, 12, 6, 11, 12, 5, 10, 7, 16] <br>
+
+Jika kita urutakan jumalah sitasi dari yang paling banyak ke paling sedikit akan didapatkan list sebagi berikut <br>
+[19, 18, 18, 18, 17, 17, 16, 16, 16, 15, 13, 13, 12, 12, 12, 12, 11, 10, 10, 9, 8, 8, 7, 7, 6, 6, 5]
+
+Maka h-indek dari penulis tersebut adalah **12**, karena dia memiliki paling tidak ada 12 publikasi yang jumlah sitasinya paling sedikit telah mencapai 12 kali disitasi.<br>
+
+Tautan:<br>
+[Elsevier Author Services, What is a good h-index?](https://scientific-publishing.webshop.elsevier.com/publication-recognition/what-good-h-index/) 
+
