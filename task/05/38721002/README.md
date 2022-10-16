@@ -87,6 +87,12 @@ Tautan:<br>
 Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan Mermaid untuk menggambarkan urut-rutan bagian yang dikerjakan dan iterasi yang diperlukan. Cantumkan rujukan yang digunakan.
 
 + [Jawaban]()
+```mermaid
+flowchart LR
+ id1(IMRaD) --> id2(Methode) --> id3(Results) --> id4(Introduction)--> id5(Discussion)
+
+```
+
 
 
 ## soal 5
