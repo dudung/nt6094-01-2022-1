@@ -17,7 +17,12 @@ Pelajari
 Bagaimana Anda dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3, Q2, atau Q1? Jelaskan dan cantumkan tautan ke sumber yang diperlukan.
 
 + [Jawaban 1]()
-<br> Kualitas suatu jurnal diketegorikan menjadi beberapa kuartil yaitu Q4, Q3, Q2, atau Q1 yang memperlihatkan bagaimana **rangking/urutan impex factor dari jurnal pada area disiplin ilmu tertentu**. Q1 berisikan jurnal yang menempati 25% rangking tertingggi dalam bidang tersebut, kemudian Q2 merupakan kelompok dalam 25-50%, disusul Q3 yang merupakan 50-75%, dan terakhir Q4 yang diisi oleh jurnal dalm kelompok 75-100%.
+
+Kualitas suatu jurnal diketegorikan menjadi beberapa kuartil yaitu Q4, Q3, Q2, atau Q1 yang memperlihatkan bagaimana **rangking dari jurnal pada area disiplin ilmu tertentu**.
+<br> 
+Untuk menentukan kuartil dari suatu jurnal digunakan standar nilai **Impact Factor (IF)** dan nilai **Scimago Journal Rank (SJR)**. Impact Factor suatu jurnal dihitung berdasarkan jumlah sitasi dari manuskrip yang terbit pada dua tahun terakhir dibagi dengan jumlah jurnal yang diterbitkana dalam kurun waktu tersebut (dua tahun teakhir). Sedangkan nilai SJR dihitung berdasarkan bobot, jumlah sitasi dengan memperhitungkan kualitas/reputasi dari jurnal pada artikel-artikel yang diterbitkan selama tiga tahun terakhir.<br>
+
+Q1 berisikan jurnal yang menempati 25% rangking tertingggi dalam bidang tersebut, kemudian Q2 merupakan kelompok dalam 25-50%, disusul Q3 yang merupakan 50-75%, dan terakhir Q4 yang diisi oleh jurnal dalm kelompok 75-100%.
 
 <br> Adapun metode untuk mengetahui kategori kuartil dari suatu jurnal dapat di cek pada halaman laman [Scimago Journal Rank](https://www.scimagojr.com/) atau [Scopus](https://www.scopus.com/).
 -	Pada laman [Scimago Journal Rank](https://www.scimagojr.com/) kita tinggal menuliskan nama jurnal yang dituju untuk kemudain dienter. Selanjutnya akan tertampil informasi terkait indeksasi dan quartil (langsung dalam info Q1, Q2, Q3, atau Q4) dari jurnal tersebut.
@@ -86,7 +91,29 @@ dengan F adalah konstanta Faraday (96485 C/mol), A adalah luasan geometerik elek
 ## soal 6
 Apakah yang dimaksud dengan jurnal pemangsa? Apakah yang dimaksud dengan penerbit pemangsa? Apakah perbedaannya dengan jurnal pemangsa? Jelaskan dengan memberikan rujukan yang digunakan.
 
-+ [Jawaban]()
++ [Jawaban 6]()
+
+**Jurnal pemangsa** atau *predatory journal* adalah jurnal yang tidak mengikuti tahapan standar penerbitan seperti proses peer-review dan hanya bertujuan untuk mendapatkan keuntungan (profit).<br>
+**Penerbit pemangsa** adalah penerbit yang menerbitkan (menaungi) jurnal-jurnal pemangsa.<br>
+
+**Perbedaan** dengan jurnal standar yang memerlukan waktu yang cukup lama untuk proses review hingga penerbitannya, jurnal pemangsa menawarkan waktu yang relative jauh lebih singkat.<br>
+Adapun beberapa kriteria umum dari jurnal pemangsa antara lain:<br>
+a.	Tidak meyediakan proses peer-review yang mencukupi.<br>
+b.	Mengcantumkan nilai Journal Impact Faktor (IF) pada laman website yang salah atau tidak terverifikasi.<br>
+c.	Mencantumkan timeline waktu publikasi yang sangat cepat (tidak realistik).<br>
+d.	Penulis diminta membayar APC padahal kualitas manuskrip yang diterbitjan rendah.<br>
+e.	Artikel yang diterbitkan memiliki banyak kesalahan gramatikal, mengindikasikan keterbatasan/tidak adanya proses penyuntingan.<br>
+f.	Mencantumkan nama-nama dewan penyunting atau editorial board yang tidak ada atau tidak kredibel dan tidak bisa diverifikasi.<br>
+g.	Meniru/menyerupai nama-nama jurnal yang terlegimitasi.<br>
+h.	Sangat masif dalam menawarkan journal kepada kandidat penulis melalu email.<br>
+i.	Alamat kantor dan kontak berbeda negara.<br>
+j.	Kurang transparan mengenai proses diterimanya artikel atau APC.<br>
+k.	Penulis diminta menandatangai pengalihan hak cipta di awal, sebelum proses peer-review, sehingga menyulitkan jika akan dialihkan ke penerbit lain.<br>
+l.	Menerbitkan artikel sebelum persetujuan penerbitan ditandatangani dan menolak menariknya bila penulis membatalkan pengiriman artikelnya.<br>
+m.	Menghapus artikel atau keseluruhan jurnal dari web tanpa peringatan atau informasi pada para penulis.<br>
+
+Tautan:<br>[Elmore SA, Weston EH. Predatory Journals: What They Are and How to Avoid Them. Toxicol Pathol. 2020 Jun;48(4):607-610.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237319/) 
+
 
 
 ## soal 7
