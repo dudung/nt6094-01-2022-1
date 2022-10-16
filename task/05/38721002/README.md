@@ -65,7 +65,15 @@ Masuk dalam **kategori Q4**, dengan nilai SJR 2021 (0.459) [7,8]<br>
 ## soal 3
 Jelaskan apa yang dimasksud dengan struktur organisasi suatu artikel ilmiah IMRaD? Cantumkan rujukan yang Anda gunakan untuk menjelaskan.
 
-+ [Jawaban]()
++ [Jawaban 3]()
+
+IMRaD merupakan kepanjangan dari Introduction, Method, Results, And Discussion.<br>
+IMRaD memberikan acuan bagaiman Menyusun suatu jurnal ilmiah yang baik.<br>
+Struktur membantu penulis agar fokus pada bidang bahasan dan tidak melebar selama proses penulisan artikel.<br>
+
+Tautan:<br>
+[Scientific Editing, What Is IMRaD? IMRaD Format in Simple Terms!](https://www.scientific-editing.info/blog/what-is-imrad/)<br>
+[Sollaci LB, Pereira MG. The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey. J Med Libr Assoc. 2004 Jul;92(3):364-7.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/)
 
 
 ## soal 4
@@ -151,7 +159,29 @@ Tautan:<br>
 ## soal 9
 Apa yang dimaksud dengan pengindeks jurnal? Sebutkan beberapa di antaranya yang Anda kenal. Cantumkan rujukan yang digunakan.
 
-+ [Jawaban]()
++ [Jawaban 9]()
+
+Pengindeks jurnal dapat berupa suatu organisasi publik, perusahaan analitik, atau penerbit yang memiliki kewenangan, dipercaya, dan kredibel untuk membuat suatu daftar basis data jurnal (bibliografi) yang disusun menurut disiplin bidang ilmu, subjek, wilayah atau faktor lainnya sehingga mempermudah pembaca dalam mencari informasi pada suatu topik tertentu.<br>
+
+Indeksasi yang dihasilkan ini juga bisa menjadi acuan untuk menentukan kualitas dari suatu jurnal dan menghindari dari jurnal pemangsa.<br>
+Hal ini dikarena suatu jurnal agar dapat terindeks harus memneuhi beberapa kriteria, seperti:
+-	Memiliki International Serial Number (ISSN) untuk setiap jurnal yang mengindikasikan bawa jurnal tersebut terbit secara periodic dan teratur.<br>
+-	Memiliki timeline penerbitan yang tetap. <br>
+-	Memiliki Digital Object Identifiers (DOI) pada tiap objek digital yang berupa kode huruf/angka yang unik dan bersifat tetap. <br>
+-	Memiliki hak cipta yang melindungi karya yang diterbitkan.<br>
+-	Memiliki dokumen pendukung seperti peryataan persetujuan etis, tidak adanya konflik kepentingan.<br>
+
+Beberapa contoh pengindeks jurnal antara lain:<br>
+a.	Scopus<br>
+b.	PubMed<br>
+c.	Web of Science<br>
+d.	SCIMAGOJR<br>
+e.	Google Scholar<br>
+
+Tautan:<br>
+[Walden University Library, What is Journal indexes?](https://academicguides.waldenu.edu/library/academicpublishing/journalindexing)<br>
+[Journal Indexing 2: Types & Tips](https://cscitconf.cikd.ca/journal-indexing-2-types-tips/)
+
 
 
 ## soal 10
