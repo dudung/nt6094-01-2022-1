@@ -71,6 +71,13 @@ IMRaD merupakan kepanjangan dari Introduction, Method, Results, And Discussion.<
 IMRaD memberikan acuan bagaiman Menyusun suatu jurnal ilmiah yang baik.<br>
 Struktur membantu penulis agar fokus pada bidang bahasan dan tidak melebar selama proses penulisan artikel.<br>
 
+Adapun pokok bahasan pada tiap bagian IMRaD antara lain:<br>
+-	Introduction: berisi rangkuman terkait permasalahan yang akan dibahas, bagaimana posisi penelitian-penelitian sebelumnya, apa research gap yang belum terjawab dan keterbaharuan yang ditawarkan.<br>
+-	Method: Bagian ini fokus membahas tentang bagaimana cara yang digunakan untuk menjawab permasalahan yang ada, baik berupa bahan, alat maupun pendekatan-pendekatan yang dilakukan.<br>
+-	Results: Mengemukaan apa yang diperoleh baik berupa kumpulan data (tabel atau kurva) dan gambar.<br>
+-	Discussion: Pada bagian ini berisikan penjelasan komperhensif terkait hasil yang telah diperoleh, apa hubungannya dengan permasalahan yang sedang diteliti dan implikasi yang didapatkan.<br>
+
+
 Tautan:<br>
 [Scientific Editing, What Is IMRaD? IMRaD Format in Simple Terms!](https://www.scientific-editing.info/blog/what-is-imrad/)<br>
 [Sollaci LB, Pereira MG. The introduction, methods, results, and discussion (IMRAD) structure: a fifty-year survey. J Med Libr Assoc. 2004 Jul;92(3):364-7.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/)
