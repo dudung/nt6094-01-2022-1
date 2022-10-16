@@ -123,7 +123,7 @@ Apa yang dimaksud dengan jurnal akses terbuka? Jelaskan dengan memberikan rujuka
 
 + [Jawaban 7]()
 
-a.	Jurnal akses terbuka atau *open access journal* adalah jurnal yang telah diterbitkan (telah selesai proses pree-review dna penyuntingan) yang dapat diakses dan diunduh dengan bebas oleh setiap orang [1]. <br>
+a.	Jurnal akses terbuka atau *open access journal* adalah jurnal yang telah diterbitkan (telah selesai proses pree-review dan penyuntingan) yang dapat diakses dan diunduh dengan bebas oleh setiap orang [1]. <br>
 b.	Jurnal akses terbuka adalah jurnal dengan teks penuh (*full texts*) yang tersedia dan dapat diakses gratis di laman website/internet. Dengan demikian pembaca dapat secara bebas membaca, mengunduh dan mencetaknya [2].<br>
 c.	Jurnal akses terbuka adalah jurnal yang secara digital tersedia secara daring dan bebas diakses, tidak dikenai biaya dan sering hanya mempersyaratkan hak cipta dan lisensi yang tak terlalu membatasi, bila dibandingkan dengan karya yang diterbitkan secara tradisional, baik bagi pengguna (pembaca) maupun penulis [3].<br>
 d.	Jurnal akses terbuka menawarkan akses bebas pada informasi dan penggunaan tak-terbatas sumber daya elektronik bagi setiap orang, di mana semua jenis konten digital dapat dibuat berakses terbuka, mulai dari teks sampai piranti lunak, suara, video, dan multi-media [4].<br>
@@ -139,7 +139,13 @@ Tautan:<br>
 ## soal 8
 Apakah ada kaitan antara jurnal pemangsa dengan jurnal akses terbuka? Jelaskan dengan memberikan rujukan yang digunakan.
 
-+ [Jawaban]()
++ [Jawaban 8]()
+
+Jurnal akses terbuka dan jurnal pemangsa pada hakikatnya merupakan dua jenis jurnal yang berbeda. Pada jurnal akses terbuka meskipun merka memberikan adanya biaya publikasi (APC) pada penulis, proses peer-review dan penyuntingan dilakukan secara jelas dan transparan. Dengan demikian, kualitas dari artikel yang diterbitakan dapat dipertanggung jawabkan. Hal ini berbeda dengan jurnal pemangsa, mereka menerapkan adanya biaya APC tetapi kualitas jurnal yang dihasikan rendah. Jadi jurnal pemangsa hanya memanfaatkan sistem jurnal akses terbuka sebagai “jebakan” menipu para kandidat penulis. 
+
+Tautan:<br>
+[Pearson GS. Open Access and Predatory Journals: Two Very Different Entities. Journal of the American Psychiatric Nurses Association. 2016;22(6):447-448.](https://journals.sagepub.com/doi/10.1177/1078390316668478)
+
 
 
 ## soal 9
