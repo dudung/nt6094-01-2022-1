@@ -16,7 +16,18 @@ Pelajari
 ## soal 1
 Bagaimana Anda dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3, Q2, atau Q1? Jelaskan dan cantumkan tautan ke sumber yang diperlukan.
 
-+ [Jawaban]()
++ [Jawaban 1]()
+<br> Kualitas suatu jurnal diketegorikan menjadi beberapa kuartil yaitu Q4, Q3, Q2, atau Q1 yang memperlihatkan bagaimana **rangking/urutan impex factor dari jurnal pada area disiplin ilmu tertentu**. Q1 berisikan jurnal yang menempati 25% rangking tertingggi dalam bidang tersebut, kemudian Q2 merupakan kelompok dalam 25-50%, disusul Q3 yang merupakan 50-75%, dan terakhir Q4 yang diisi oleh jurnal dalm kelompok 75-100%.
+
+<br> Adapun metode untuk mengetahui kategori kuartil dari suatu jurnal dapat di cek pada halaman laman Scimago Journal Rank (https://www.scimagojr.com/) atau scopus (https://www.scopus.com/).
+-	Pada Laman Scimago kita tinggal menuliskan nama jurnal yang dituju untuk kemudain dienter dan anti akan tertampil informasi terkait indeksasi dan quartil (langsung dalam info Q1, Q2, Q3, atau Q4) dari jurnal tersebut.
+-	Pada laman scopus, klik bagian sources dan pilih title (nama jurnal yang akan dipilih) kemudain di enter. Selanjutnya akan tertampil nilai dari percentil jurnal yang dituju. Sebagi informasi karena Q1 merupakan jurnal yang menempati rangkin 25% tertinggi pada satu disiplin ilmu tertentu, maka pada laman scopus Q1 akan ditempati oleh jurnal-jurnal dengan nilai “Highest percentile” diatas 75%.
+
+<br>Tautan:<br>
+a.	https://www.mondragon.edu/en/web/biblioteka/publications-impact-indexes<br>
+b.	https://www.scimagojr.com/<br>
+c.	https://www.scopus.com/
+
 
 
 ## soal 2
