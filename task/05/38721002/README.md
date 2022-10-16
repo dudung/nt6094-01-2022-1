@@ -34,7 +34,27 @@ c.	https://www.scopus.com/
 ## soal 2
 Tuliskan empat jurnal bidang Anda, yang mungkin kelak akan menjadi target Anda mengirimkan artikel ilmiah, dengan masing-masing termasuk dalam kategori Q4, Q3, Q2, dan Q1. Cantumkan pula tautan ke jurnal-jurnal tersebut dan situs web lain yang menyatakan bahwa jurnal-jurnal tersebut termasuk dalam kategori yang dimaksud.
 
-+ [Jawaban]()
++ [Jawaban 2]()
++ List target jurnal untuk masing-masing quartil <br>
+a.	**ACS Applied Energy Materials** (https://pubs.acs.org/journal/aaemcq)<br>
+Masuk dalam **kategori Q1**, dengan nilai SJR 2021 (1.61) [1,2]<br>
+b.	**Journal of Solid State Electrochemistry** (https://www.springer.com/journal/10008)<br> 
+Masuk dalam **kategori Q2**, dengan nilai SJR 2021 (0.53) [3,4]<br>
+c.	**The Electrochemical Society Interface** (https://iopscience.iop.org/journal/1944-8783)<br>
+Masuk dalam **kategori Q3**, dengan nilai SJR 2021 (0.564) [5,6]<br>
+d.	**Journal of Electrochemical Science and Technology** (https://www.jecst.org/) <br>
+Masuk dalam **kategori Q4**, dengan nilai SJR 2021 (0.459) [7,8]<br>
+
+Tautan:<br>
+[1] https://www.scimagojr.com/journalsearch.php?q=21100904205&tip=sid&clean=0 <br>
+[2] https://www.scopus.com/sourceid/21100904205 <br>
+[3] https://www.scimagojr.com/journalsearch.php?q=25199&tip=sid&clean=0 <br>
+[4] https://www.scopus.com/sourceid/25199 <br>
+[5] https://www.scimagojr.com/journalsearch.php?q=25168&tip=sid&clean=0 <br>
+[6] https://www.scopus.com/sourceid/25168 <br>
+[7] https://www.scimagojr.com/journalsearch.php?q=21100399753&tip=sid&clean=0 <br>
+[8] https://www.scopus.com/sourceid/21100399753 
+
 
 
 ## soal 3
