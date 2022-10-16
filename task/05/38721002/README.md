@@ -72,7 +72,15 @@ Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan M
 ## soal 5
 Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapat dalam bagian teori, pengambilan data, pengolahan data, ataupun analisis.
 
-+ [Jawaban]()
++ [Jawaban 5]()
+
+**Persamaan Koutecký−Levich (K−L plot)** <br>Digunakan untuk menghitung nilai elektron transfer number pada reaksi reduksi oksigen (ORR)
+
+$$\frac{1}{j}=\frac{1}{j_L}+\frac{1}{j_K}=\frac{1}{0.62nFAC_{O_2}(D_{O_2})^{2/3}ν^{-1/6}ꞷ^{1/2}}+\frac{1}{nFkj_0}$$
+
+$$gradien=(0.62nFAC_{O_2}(D_{O_2})^{2/3}ν^{-1/6})^{-1}$$
+
+dengan F adalah konstanta Faraday (96485 C/mol), A adalah luasan geometerik elektroda kerja, J<sub>K</sub> adalah kinetic-limiting current density, ω adalah kecepatan sudut (rad/s), C<sub>O2</sub> dan D<sub>O2</sub> masing-masing adalah konsentrasi bulk dan konstanta difusi dari O<sub>2</sub> pada elektrolit yang digunakan, dan υ adalah viskositas kinematik.
 
 
 ## soal 6
