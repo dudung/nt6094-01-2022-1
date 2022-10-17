@@ -100,10 +100,16 @@ Meskipun urutannya sperti yang terlihat pada gambar diatas, dalam proses penyusu
 ```mermaid
 flowchart TD 
 A[<u><i> Results </i></br></u> - Sajikan data yang telah dihasikan: tabel, kurva, dan/atau gambar </br> - Pilih data yang relevan dan mendukung tujuan yang akan dicapai]
--->B[<u><i>Method</i></br></u> - Tulisakan dengan ringkas dan jelas terkait metode penelitian yang digunakan </br> - Pilih data yang relevan dan mendukung tujuan yang akan dicapai]-->C(Discussion)<-->D(Introduction)
+-->B[<u><i>Method</i></br></u> - Tulisakan dengan ringkas/jelas metode penelitian yang digunakan </br> - Info yang perlu disampikan: bahan, peralatan, metode pengolahan data/analisis]-->C[<u><i>Discussion</i></br></u>- Tulisakan hasil signifikasn yang diperoleh</br> - Tunjukan hubungan antara data dan hipotesis</br> - Tunjukan keterkaitan dengan data dari penelitian-penelitian sebelumnya</br>]<-->D[<u><i>Introduction</i></br></u>- Tulisakan latar belakang masalah yang diperkuat dengan studi literatur terkait penelitian-penelitian sebelumnya </br> - Sampikan info permasalah yang masih belum terselesaikan dan menjadi <i>research gap</i> yang memerlukan penelitian lanjut</br> - Sampikan tujuan dan <i>novelty</i> dari peneitian yang dilakukan]
 ```
 
-Pada bab metode penelitian, jelaskan tentang ringkasan materi dan metode penelitian yg digunakan, meliputi subyek/bahan yg diteliti, alat yg digunakan, rancangan percobaan atau desain yg digunakan, teknik pengambilan sampel, variabel yg diukur.
+Dari gambar diatas terlihat bawa pada saat proses penyusunan discussion akan juga terkait erat dengan introduction. Sehingga selama proses penulisan, merupakan hal yang wajar setelah menulis into kembali memperbaiki bagian diskusi.<br>
+Selanjutnya setelah ke emapt bagian IMRaD tersususn kita bisa membuat kesimpulan, dan paling akhir adalah membuat abstrak.<br>
+
+Tautan:<br>
+[Wu, J. Improving the writing of research papers: IMRAD and beyond. Landscape Ecol 26, 1345–1349 (2011)](https://link.springer.com/article/10.1007/s10980-011-9674-3#citeas)<br>
+[Montagnes, D.J.S., Montagnes, E.I. & Yang, Z. Finding your scientific story by writing backwards. Mar Life Sci Technol 4, 1–9 (2022)](https://link.springer.com/article/10.1007/s42995-021-00120-z#citeas)
+
 
 ## soal 5
 Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapat dalam bagian teori, pengambilan data, pengolahan data, ataupun analisis.
