@@ -20,9 +20,9 @@ Bagaimana Anda dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3, Q2,
 
 Kualitas suatu jurnal diketegorikan menjadi beberapa kuartil yaitu Q4, Q3, Q2, atau Q1 yang memperlihatkan bagaimana **rangking dari jurnal pada area disiplin ilmu tertentu**.
 <br> 
-Untuk menentukan kuartil dari suatu jurnal digunakan standar nilai **Impact Factor (IF)** dan nilai **Scimago Journal Rank (SJR)**. Impact Factor suatu jurnal dihitung berdasarkan jumlah sitasi dari manuskrip yang terbit pada dua tahun terakhir dibagi dengan jumlah jurnal yang diterbitkana dalam kurun waktu tersebut (dua tahun teakhir). Sedangkan nilai SJR dihitung berdasarkan bobot, jumlah sitasi dengan memperhitungkan kualitas/reputasi dari jurnal pada artikel-artikel yang diterbitkan selama tiga tahun terakhir.<br>
+Untuk menentukan kuartil dari suatu jurnal digunakan standar nilai **Impact Factor (IF)** dan nilai **Scimago Journal Rank (SJR)**. Impact Factor suatu jurnal dihitung berdasarkan jumlah sitasi dari manuskrip yang terbit pada dua tahun terakhir dibagi dengan jumlah artikel yang diterbitkana dalam kurun waktu tersebut (dua tahun teakhir). Sedangkan nilai SJR dihitung berdasarkan bobot, jumlah sitasi dengan memperhitungkan kualitas/reputasi dari jurnal pada artikel-artikel yang diterbitkan selama tiga tahun terakhir.<br>
 
-Q1 berisikan jurnal yang menempati 25% rangking tertingggi dalam bidang tersebut, kemudian Q2 merupakan kelompok dalam 25-50%, disusul Q3 yang merupakan 50-75%, dan terakhir Q4 yang diisi oleh jurnal dalm kelompok 75-100%.
+Q1 berisikan jurnal-jurnal yang menempati top 25% rangking tertingggi dalam bidang tertentu. Q2 merupakan kelompok jurnal pada peringkat 25-50% teratas, Q3 ditempati oleh jurnal peringkat 50-75%, dan terakhir Q4 yang diisi oleh jurnal dalm kelompok 75-100%.
 
 <br> Adapun metode untuk mengetahui kategori kuartil dari suatu jurnal dapat di cek pada halaman laman [Scimago Journal Rank](https://www.scimagojr.com/) atau [Scopus](https://www.scopus.com/).
 -	Pada laman [Scimago Journal Rank](https://www.scimagojr.com/) kita tinggal menuliskan nama jurnal yang dituju untuk kemudain dienter. Selanjutnya akan tertampil informasi terkait indeksasi dan quartil (langsung dalam info Q1, Q2, Q3, atau Q4) dari jurnal tersebut.
@@ -67,15 +67,15 @@ Jelaskan apa yang dimasksud dengan struktur organisasi suatu artikel ilmiah IMRa
 
 + [Jawaban 3]()
 
-IMRaD merupakan kepanjangan dari Introduction, Method, Results, And Discussion.<br>
-IMRaD memberikan acuan bagaiman Menyusun suatu jurnal ilmiah yang baik.<br>
-Struktur membantu penulis agar fokus pada bidang bahasan dan tidak melebar selama proses penulisan artikel.<br>
+Secara bahasa IMRaD merupakan kepanjangan dari *Introduction, Method, Results, and Discussion*.<br>
+IMRaD memberikan acuan bagaimana menyusun suatu artikel ilmiah ilmiah yang baik dan terstruktur serta mudah dipahami oleh pembaca.<br>
+Struktur ini membantu penulis agar fokus pada pokok bahasan dan tidak melebar selama proses penulisan artikel dan antar bagian dalam artikelnya saling berkesinambungan.<br>
 
-Adapun pokok bahasan pada tiap bagian IMRaD antara lain:<br>
--	Introduction: berisi rangkuman terkait permasalahan yang akan dibahas, bagaimana posisi penelitian-penelitian sebelumnya, apa research gap yang belum terjawab dan keterbaharuan yang ditawarkan.<br>
--	Method: Bagian ini fokus membahas tentang bagaimana cara yang digunakan untuk menjawab permasalahan yang ada, baik berupa bahan, alat maupun pendekatan-pendekatan yang dilakukan.<br>
--	Results: Mengemukaan apa yang diperoleh baik berupa kumpulan data (tabel atau kurva) dan gambar.<br>
--	Discussion: Pada bagian ini berisikan penjelasan komperhensif terkait hasil yang telah diperoleh, apa hubungannya dengan permasalahan yang sedang diteliti dan implikasi yang didapatkan.<br>
+Adapun struktur organisasi artikel ilmiah yang menganut IMRaD memiliki empat bagian utama, yaitu:<br>
+-	*Introduction*: berisi uraian tentang latar belakang yang menggambarkan bagaimana posisi penelitian-penelitian sebelumnya (tinjauan pusataka), rumusan masalah terkait *research gap* yang belum terjawab, dan tujuan dari penelitian yang dilakukan yang didalamnya memperlihatkan keterbaharuan.<br>
+-	*Method*: bagian ini membahas bagaimana cara/metode yang digunakan untuk menjawab permasalahan yang disebutkan dalam pendahuluan.<br>
+-	*Results*: mengemukaan hal-hal apa saja yang diperoleh yang dapat disajikan dalan bentuk tabel, grafik/kurva, dan gambar.<br>
+-	*Discussion*: berisikan penjelasan komperhensif terkait hasil signifikan yang diperoleh, apa implikasi/hubungannya dengan permasalahan yang diangkat, dan keterkaitan denegan penelitian sebelumnya sebagai dasar untuk membuat suatu kesimpulan.<br>
 
 
 Tautan:<br>
@@ -87,13 +87,23 @@ Tautan:<br>
 Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan Mermaid untuk menggambarkan urut-rutan bagian yang dikerjakan dan iterasi yang diperlukan. Cantumkan rujukan yang digunakan.
 
 + [Jawaban]()
+
+Suatu artikel yang menganut IMRaD maka akan memiliki struktur umum (awal-->akhir) sebagai berikut:
+
 ```mermaid
 flowchart LR
- id1(IMRaD) --> id2(Methode) --> id3(Results) --> id4(Introduction)--> id5(Discussion)
-
+ id1(<i>Title</i>)-->id2(<i>Abstract</i>)-->id3(<i>Introduction</i>)-->id4(<i>Method</i>)-->id5(<i>Results</i>)-->id6(<i>Discussion</i>)-->id7(<i>Conclusion</i>)
+ 
 ```
 
+Meskipun urutannya sperti yang terlihat pada gambar diatas, dalam proses penyusunannya bukan secara urut dari kanan ke kiri, akan tetapi alur yang digunakan selama proses penyusunan artikel ilmiah berdasarkan IMRaD (khususnya untuk bagian *Introduction*, *Method*, *Results*, dan *Discussion*) adalah sebagi berikut:
+```mermaid
+flowchart TD 
+A[<u><i> Results </i></br></u> - Sajikan data yang telah dihasikan: tabel, kurva, dan/atau gambar </br> - Pilih data yang relevan dan mendukung tujuan yang akan dicapai]
+-->B[<u><i>Method</i></br></u> - Tulisakan dengan ringkas dan jelas terkait metode penelitian yang digunakan </br> - Pilih data yang relevan dan mendukung tujuan yang akan dicapai]-->C(Discussion)<-->D(Introduction)
+```
 
+Pada bab metode penelitian, jelaskan tentang ringkasan materi dan metode penelitian yg digunakan, meliputi subyek/bahan yg diteliti, alat yg digunakan, rancangan percobaan atau desain yg digunakan, teknik pengambilan sampel, variabel yg diukur.
 
 ## soal 5
 Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapat dalam bagian teori, pengambilan data, pengolahan data, ataupun analisis.
