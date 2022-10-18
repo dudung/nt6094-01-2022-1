@@ -70,7 +70,7 @@ Penentuan impact atau rangking jurnal adalah dengan menggunakan :
 
    Alat pencarian rangking jurnal lainnya adalah [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=en). Hasil pencarian dari   google scholar metrics adalah peringkat 100 publikasi teratas dalam beberapa bahasa dan 20 teratas di bidang penelitian tertentu berdasarkan H-index lima tahun terakhir 
 
-[Berikut adalah rujukan pencarian rangking jurnal](https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/)
+[Tautan mengenai rangking jurnal](https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/)
 
 
 ## soal 2
@@ -97,6 +97,19 @@ Jelaskan apa yang dimasksud dengan struktur organisasi suatu artikel ilmiah IMRa
 
 + [Jawaban]()
 
+IMRaD merupakan struktur penulisan ilmiah yang mencakup empat atau lima bagian utama yaitu: pendahuluan (Introduction); metode penelitian (Method); hasil (Result); analisis (analysis); dan diskusi (Discussion). Metode ini dikenal sebagai salah satu struktur penulisan yang digunakan oleh banyak penulis artikel ilmiah karena struktur ini banyak diterima oleh banyak jurnal ilmiah bereputasi. Struktur ini terdiri dari :
+
+Introduction :  Bagian ini berisi tentang latar belakang penelitian, keunikan dari pelitian, tinjauan pustaka (literature review), dan keaslian penelitian (Research Gap).
+
+Method : Bagian ini menguraikan dengan jelas tentang metode penelitian yang digunakan yang meliputi subjek penelitian, variabel penelitian, teknik pengolahan data, dan instrumen yang digunakan untuk meneliti, serta bagaimana data hasil penelitian itu dianalisis.
+
+Result : Bagian ini menjelaskan tentang hasil penelitian yang telah dilakukan. Hasil penelitian dapat disajikan dgn dukungan tabel, grafik atau gambar. Dalam penyajiannya harus dimulai dengan narasi terlebih dahulu, kemudian diikuti dengan tabel atau gambar.
+
+Analysis : Bagian analisis merinci bagian yang dapat dipelajari dari data. Beberapa peneliti atau penulis manuskrip menggabungkan bagian ini dengan bagian Diskusi, namun beberapa lainnya merasa perlu memisahkananalisis data secara terpisah. Di bagian analisis perlu membuat benang merah menyambungkan dan mengintrpretasi data untuk pembaca
+
+Discussion : Bagian ini jelaskan tentang hasil yang didapatkan dari penelitian, sesuai atau tidak dengan hipotesis yang diajukan, dengan mengemukakan argumentasinya. Kajian teori penelitian yang relevan, hasil penelitian atau pendapat orang lain ditulis dengan kalimat sendiri. Kemudian pembahasan disimpulkan dengan menyarankan pengetahuan baru dari data yang diperoleh. Pada bagian ini mencatat keterbatasan penelitian yang telah dilakukan dan menyarankn penelitian lebih lanjut yang masih perlu dilakukan. Jika ditemukan suatu hasil yang mengkhawatirkan atau penting, di bagian diskusi informasi tersebut dibahas dan ditelaah. Pada bagian diskusi juga membahas rekomendasi atau rencana secara terprinci jika metode IMRad digunakan untuk menulis jenis manuskrip lainnya.
+
+[Tautan mengenai IMRaD](https://thevisualcommunicationguy.com/writing/how-to-organize-a-paper/how-to-organize-a-paper-the-imrad-format/)
 
 ## soal 4
 Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan Mermaid untuk menggambarkan urut-rutan bagian yang dikerjakan dan iterasi yang diperlukan. Cantumkan rujukan yang digunakan.
