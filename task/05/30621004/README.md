@@ -85,7 +85,7 @@ Berikut adalah jurnal yang akan menjadi target untuk mengirimkan artikel ilmiah 
 |     Q1          |Plant Physiology        |[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=16615&tip=sid&clean=0)                    |
 |                 |                        |[rangking Scopus](https://www.scopus.com/sourceid/16615)                                                   |
 |     Q2          |Journal of Plant Biology|[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=144696&tip=sid&clean=0)                   |
-|                 |                        |[rangking Scopus] (https://www.scopus.com/sourceid/144696)                                                 |
+|                 |                        |[rangking Scopus](https://www.scopus.com/sourceid/144696)                                                 |
 |     Q3          |Agronomy Research       |[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=21100201050&tip=sid&clean=0)              |
 |                 |                        |[rangking Scopus](https://www.scopus.com/sourceid/21100201050)                                             |
 |     Q4          |Agrociencia             |[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=145503&tip=sid&clean=0)                   |
