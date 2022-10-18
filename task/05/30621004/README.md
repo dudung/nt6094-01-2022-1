@@ -18,24 +18,25 @@ Bagaimana Anda dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3, Q2,
 
 + [Jawaban]()
 
-[Kuartil](https://www.linkedin.com/pulse/whats-journal-quartile-rankings-research-dr-koshal-k-bagelu-) merupakan peringkat jurnal atau makalah yang ditentukan    berdasarkan impact factor (IF), sitasi, dan pengindeksan. Peringkat jurnal dapat dibagi menjadi empat kuadran yaitu Q1, Q2, Q3, dan Q4. Indeks Q atau kuartil merupakan peringkat jurnal yang termasuk dalam bidang disiplin ilmu spesifik dan dikenal sebagai parameter pengukuran atau peringkat jurnal. Peringkat Peringkat Kuartil berdasarkan distribusi impact factor adalah : 
+[Kuartil](https://www.linkedin.com/pulse/whats-journal-quartile-rankings-research-dr-koshal-k-bagelu-) merupakan peringkat jurnal atau makalah yang ditentukan    berdasarkan impact factor (IF), sitasi, dan pengindeksan. Peringkat jurnal dapat dibagi menjadi empat kuadran yaitu Q1, Q2, Q3, dan Q4. Indeks Q atau kuartil merupakan peringkat jurnal yang termasuk dalam bidang disiplin ilmu spesifik dan dikenal sebagai parameter pengukuran atau peringkat jurnal. Peringkat kuartil berdasarkan distribusi impact factor adalah : 
 
   1.	Kuartil 1 (Q1): 25% jurnal teratas dalam kategori posisi teratas (25% teratas)
   2.	Kuartil 2 (Q2): 25% jurnal setelah kuartil 1 termasuk dalam kategori posisi menengah-tinggi (antara 25% hingga 50%)
   3.	Kuartil 3 (Q3): 25% jurnal setelah kuartil 2 termasuk dalam kategori posisi menengah-bawah (antara 50% hingga 75%)
   4.	Kuartil 4 (Q4): 25% jurnal setelah kuartil 3 termasuk dalam kategori posisi terakhir atau terendah (antara 75% hingga 100%).
 
-Peringkat jurnal merupaan indikator yang mencerminkan posisi jurnal dalam suatu keilmuan tertentu. Informasi peringkat jurnal akan membantu peneliti untuk memutuskan jurnal yang sesuai untuk menerbitkan artikel di penerbit sesuai dengan tujuan peneliti.  
+Peringkat jurnal merupakan indikator yang mencerminkan posisi jurnal dalam suatu keilmuan tertentu. Informasi peringkat jurnal akan membantu peneliti untuk memutuskan jurnal yang sesuai untuk menerbitkan artikel di penerbit sesuai dengan tujuan peneliti.  
 
 Penentuan impact atau rangking jurnal adalah dengan menggunakan :
 1. [Scopus](https://www.scopus.com/) dan [Scimago Journal Rangking/SJR](https://www.scimagojr.com/)
-   Skor dan rangking jurnal pada SCOPUS dan SJR yang diindeks di SCOPUS berdasarkan data sitasi, yang diukur berdasarkan sejumlah parameter antara lain :
+   
+   Skor dan rangking jurnal pada SCOPUS dan SJR yang diindeks berdasarkan data sitasi, yang diukur berdasarkan sejumlah parameter antara lain :
   
    a. CiteScore mengukur rata-rata sitasi yang diterima per dokumen yang dipublish di journal
    
-   b. SJR mengukur bobot sitasi dengan prestise. Jurnal Q1 disitasi lebih sering dan lebih prestisius dibandingkan kuartil lainnya
+   b. SJR mengukur bobot sitasi berdasarkan prestise. Jurnal Q1 disitasi lebih sering dan lebih prestisius dibandingkan kuartil lainnya
    
-   c. SNIP (Source Normalized Impact per Paper) mengukur bobot sitasi dengan subyek ruang lingkup. Komparasi tidak hanya pada ruang lingkup keilmuan yang sama namun      dengan keilmuan yang lain. 
+   c. SNIP (Source Normalized Impact per Paper) mengukur bobot sitasi dengan subyek ruang lingkup. Perbandingan tidak hanya pada ruang lingkup keilmuan yang sama namun      dengan keilmuan yang lain. 
 
    Cara mencari rangking jurnal di Scopus adalah sebagai berikut :
 
