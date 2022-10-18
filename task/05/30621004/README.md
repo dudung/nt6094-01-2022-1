@@ -17,6 +17,13 @@ Pelajari
 Bagaimana Anda dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3, Q2, atau Q1? Jelaskan dan cantumkan tautan ke sumber yang diperlukan.
 
 + [Jawaban]()
+Kuartil merupakan peringkat jurnal atau makalah yang ditentukan berdasarkan impact factor (IF), sitasi, dan pengindeksan. Peringkat jurnal dapat dibagi menjadi empat kuadran yaitu Q1, Q2, Q3, dan Q4. Indeks Q atau kuartil merupakan peringkat jurnal yang termasuk dalam bidang disiplin ilmu spesifik dan dikenal sebagai parameter pengukuran atau peringkat jurnal. Peringkat Peringkat Kuartil berdasarkan distribusi impact factor adalah : 
+1.	Kuartil 1 (Q1): 25% jurnal teratas dalam kategori posisi teratas (25% teratas)
+2.	Kuartil 2 (Q2): 25% jurnal setelah kuartil 1 termasuk dalam kategori posisi menengah-tinggi (antara 25% hingga 50%)
+3.	Kuartil 3 (Q3): 25% jurnal setelah kuartil 2 termasuk dalam kategori posisi menengah-bawah (antara 50% hingga 75%)
+4.	Kuartil 4 (Q4): 25% jurnal setelah kuartil 3 termasuk dalam kategori posisi terakhir atau terendah (antara 75% hingga 100%).
+
+[Rujukan](https://www.linkedin.com/pulse/whats-journal-quartile-rankings-research-dr-koshal-k-bagelu-)
 
 
 ## soal 2
