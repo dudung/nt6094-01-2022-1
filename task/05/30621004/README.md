@@ -128,6 +128,49 @@ Apakah yang dimaksud dengan jurnal pemangsa? Apakah yang dimaksud dengan penerbi
 
 + [Jawaban]()
 
+**Jurnal dan penerbit predator** adalah entitas yang memprioritaskan kepentingan pribadi yang bertujuan untuk mendapatkan keuntungan dari biaya pemrosesan artikel tanpa melakukan peer review yang tepat, memberikan informasi yang salah atau menyesatkan, penyimpangan dari praktek editorial dan publikasi yang sesuai, kurangnya transparansi, sehingga kualitas artikel yang diterbitkan dalam jurnal presator dipertanyakan. 
+
+[Tautan jurnal predator](https://www.nature.com/articles/d41586-019-03759-y)
+
+**Jurnal predator atau jurnal semu** adalah publikasi yang mengklaim sebagai jurnal ilmiah yang sah, tetapi salah menginterpretasikan praktek penerbitan. Beberapa bentuk umum dari praktek penerbitan predator termasuk klaim palsu untuk memberikan tinjauan sejawat (peer review), menyembunyikan informasi tentang biaya pemrosesan artikel (article processing charge, APC), memberikan informasi yang salah mengenai anggota dewan editorial jurnal, dan pelanggaran hak cipta atau etika ilmiah lainnya. Tujuan utama dari jurnal predator adalah keuntungan, dengan mengelabui penulis untuk menerbitkan manuskrip dengan bayaran tanpa memberikan tinjauan sejawat atau layanan editorial yang kuat, sehingga menempatkan keuntungan dibandingkan menyajikan data sains yang dapat dipertanggungjawabkan kebenarannya. Bagi peneliti, kemajuan karir bergantung pada penerbitan publikasi ilmiah, sehingga peneliti akan mencari jurnal yang mudah untuk menerbitkan semua publikasi yang dikirimkan. Hal ini menjadi sasaran jurnal predator memanfaatkan ketergantungan peneliti terhadap kebutuhan publikasi 
+
+**Penerbit predator** merupakan organisasi yang menerbitkan jurnal palsu atau jurnal predator untuk mengeksploitasi model akses terbuka (open source), dengan memanfaatkan pembayaran dari penulis. Penerbit predator ini tidak jujur dan kurang transparan yang bertujuan untuk mengelabui para peneliti, terutama yang tidak berpengalaman dalam komunikasi ilmiah
+
+**Perbedaan antara jurnal predator dan penerbit predator** adalah jurnal predator merupakan jurnal semu yang mengklaim penerbitan jurnal ilmiah yang sah, namun kenyataannya tidak sesuai dengan prosedur ilmiah yang dapat dipertanggungjawabkan, sedangkan penerbit predator adalah organisasi yang menerbitkan jurnal semu atau jurnal predator dengan memanfaatkan pembayaran dari pengirim manuskrip
+
+[Tautan jurnal dan penerbit predator](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7237319/)
+
+Karakteristik jurnal atau penerbit predator adalah sebagai berikut:
+
+•	Judul jurnal yang dapat dengan mudah dikacaukan dengan jurnal lain yang dapat menyesatkan calon penulis dan pembaca tentang asal, ruang lingkup, atau asosiasi jurnal dengan jurnal lain
+
+•	Cakupan ruang lingkup jurnal sangat luas
+
+•	Menampilkan impact factor yang tidak sesuai
+
+•	Klaim palsu telah terindeks di layanan utama seperti PubMed atau DOAJ
+
+•	Tidak ada alamat penerbit atau informasi kontak
+
+•	Kepemilikan jurnal yang tidak jelas
+
+•	Mengirimkan spam dengan banyak email ke peneliti yang mengundang pengiriman, dan seringkali tidak terkait dengan keahlian
+
+•	Mengiklankan waktu yang sangat cepat dari pengiriman hingga publikasi
+
+•	Mempublikasikan artikel di luar cakupan
+
+•	Mempublikasikan artikel yang tidak masuk akal
+
+•	Pengeditan artikel yang tidak sesuai prosedur atau tidak ada (banyak kesalahan ejaan atau tata bahasa yang sangat buruk)
+
+•	Menyembunyikan informasi tentang biaya
+
+•	Tidak ada dewan redaksi yang terdaftar, atau dewan redaksi terdiri dari cendekiawan yang sudah meninggal atau pensiunan yang tidak mengkhususkan diri dalam topik tersebut
+
+•	Kurangnya informasi tentang kebijakan jurnal, seperti peer review, lisensi dan hak cipta
+
+[Tautan karakteristik jurnal dan penerbit predator](https://thinkchecksubmit.org/resources/about-predatory-publishing/)
 
 ## soal 7
 Apa yang dimaksud dengan jurnal akses terbuka? Jelaskan dengan memberikan rujukan yang digunakan.
