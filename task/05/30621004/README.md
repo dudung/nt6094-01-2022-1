@@ -55,6 +55,21 @@ Penentuan impact atau rangking jurnal adalah dengan menggunakan :
    
    d. Hasil akan diurutkan secara default oleh [Scimago Journal Rangking](https://www.scimagojr.com/journalrank.php?category=1102&area=1100&min=0&min_type=cd)
 
+2. [Web of Science](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
+
+   Jurnal yang diindeks pada artikel database Web of Science dirangking menggunakan Impact Factor yang berbasis data sitasi 2 tahun sebelumya. Kategori subyek yang  diberi peringkat terbagi menjadi kuartil dengan Q1 teridentifikasi sbagai jurnal yang paling banyak dikutip. Cara menggunakan web of science :
+  
+   a. membuka link web of science (berlangganan)
+  
+   b. memilih artikel jurnal
+  
+   c. ringkasan informasi impact journal akan terlihat di web
+  
+3. Ranking Tools lainnya
+
+   Alat pencarian rangking jurnal lainnya adalah [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=en). Hasil pencarian dari   google scholar metrics adalah peringkat 100 publikasi teratas dalam beberapa bahasa dan 20 teratas di bidang penelitian tertentu berdasarkan H-index lima tahun terakhir 
+
+[Berikut adaah rujukan pencarian rangking jurnal](https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/)
 
 
 ## soal 2
