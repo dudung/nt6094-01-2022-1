@@ -70,7 +70,7 @@ Penentuan impact atau rangking jurnal adalah dengan menggunakan :
 
    Alat pencarian rangking jurnal lainnya adalah [Google Scholar Metrics](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=en). Hasil pencarian dari   google scholar metrics adalah peringkat 100 publikasi teratas dalam beberapa bahasa dan 20 teratas di bidang penelitian tertentu berdasarkan H-index lima tahun terakhir 
 
-[Berikut adaah rujukan pencarian rangking jurnal](https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/)
+[Berikut adalah rujukan pencarian rangking jurnal](https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/)
 
 
 ## soal 2
@@ -80,14 +80,16 @@ Tuliskan empat jurnal bidang Anda, yang mungkin kelak akan menjadi target Anda m
 
 Berikut adalah jurnal yang akan menjadi target untuk mengirimkan artikel ilmiah hasil penelitian :
 
-| Rangking jurnal |   Nama jurnal | Tautan                                                                                                    |
-|----------------:|---------------|-----------------------------------------------------------------------------------------------------------|
-|     Q1          |   Symbiosis   |[rangking di Scimago Journal Rangking](https://www.scimagojr.com/journalsearch.php?q=14301&tip=sid&clean=0)|
-|                 |               |[website jurnal](https://www.springer.com/journal/13199)                                                   |
-|     Q2          |               |
-|     Q3          |               |
-|     Q4          |               |
-
+| Rangking jurnal |      Nama jurnal       |                   Tautan kategori jurnal                                                                  |
+|----------------:|------------------------|-----------------------------------------------------------------------------------------------------------|
+|     Q1          |Plant Physiology        |[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=16615&tip=sid&clean=0)                    |
+|                 |                        |[rangking Scopus](https://www.scopus.com/sourceid/16615)                                                   |
+|     Q2          |Journal of Plant Biology|[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=144696&tip=sid&clean=0)                   |
+|                 |                        |[rangking Scopus] (https://www.scopus.com/sourceid/144696)                                                 |
+|     Q3          |Agronomy Research       |[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=21100201050&tip=sid&clean=0)              |
+|                 |                        |[rangking Scopus](https://www.scopus.com/sourceid/21100201050)                                             |
+|     Q4          |Agrociencia             |[rangking Scimago](https://www.scimagojr.com/journalsearch.php?q=145503&tip=sid&clean=0)                   |
+|                 |                        |[rangking Scopus](https://www.scopus.com/sourceid/145503)                                                  |
 
 
 ## soal 3
