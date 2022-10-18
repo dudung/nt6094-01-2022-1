@@ -78,6 +78,17 @@ Tuliskan empat jurnal bidang Anda, yang mungkin kelak akan menjadi target Anda m
 
 + [Jawaban]()
 
+Berikut adalah jurnal yang akan menjadi target untuk mengirimkan artikel ilmiah hasil penelitian :
+
+| Rangking jurnal |   Nama jurnal | Tautan                                                                                                    |
+|----------------:|---------------|-----------------------------------------------------------------------------------------------------------|
+|     Q1          |   Symbiosis   |[rangking di Scimago Journal Rangking](https://www.scimagojr.com/journalsearch.php?q=14301&tip=sid&clean=0)|
+|                 |               |[website jurnal](https://www.springer.com/journal/13199)                                                   |
+|     Q2          |               |
+|     Q3          |               |
+|     Q4          |               |
+
+
 
 ## soal 3
 Jelaskan apa yang dimasksud dengan struktur organisasi suatu artikel ilmiah IMRaD? Cantumkan rujukan yang Anda gunakan untuk menjelaskan.
