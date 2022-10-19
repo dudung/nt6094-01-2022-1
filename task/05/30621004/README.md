@@ -136,6 +136,10 @@ Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan M
 
 + [Jawaban]()
 
+Untuk meningkatkan efisiensi penulisan, lebih baik menggunakan urutan TA-MRDI daripada TA-IMRaD, karena menulis Pendahuluan di awal dapat membuang waktu dengan menulis pendahuluan yang terlalu panjang atau tidak berhubungan dengan sisa makalah. Urutan “write” TA-MRDI, dengan Pendahuluan yang ditulis di bagian akhir, akan memungkinkan menyusun argumen akademis yang terfokus dan membantu meyakinkan pembaca tentang perlunya dan pentingnya penelitian kita. Urutan yang disarankan untuk menulis makalah penelitian adalah sebagai berikut :
+
+
+
 
 ## soal 5
 Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapat dalam bagian teori, pengambilan data, pengolahan data, ataupun analisis.
