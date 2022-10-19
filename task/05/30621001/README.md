@@ -1,4 +1,4 @@
-# nim
+# 30621001
 1. Ganti nim dia atas dengan NIM Anda, seperti 99921001.
 2. Hanya berkas ini yang akan diperiksa, sehingga bila ada jawaban yang tercantum pada berkas lain, tautan dari berkas ini ke berkas lain tersebut harus dibuat dan tercantum pada berkas ini.
 3. Kerjakan yang diberikan berikut ini.
