@@ -228,6 +228,19 @@ Apa yang dimaksud dengan pengindeks jurnal? Sebutkan beberapa di antaranya yang 
 
 + [Jawaban]()
 
+Indeks kutipan (indexing) adalah urutan daftar artikel yang dikutip, masing-masing disertai dengan daftar artikel yang mengutip. Artikel yang mengutip diidentifikasi sebagai sumber dan artikel yang dikutip sebagai referensi. Isi jurnal dapat dicari menggunakan judul subjek (kata kunci, nama penulis, judul, abstrak, dll.,) dalam database yang tersedia. Terwakili dalam layanan abstrak dan pengindeksan online yang relevan merupakan faktor penting untuk keberhasilan jurnal. Pencarian hari ini dilakukan secara online, sehingga sangat penting bahwa jurnal terwakili dalam sistem pencarian online yang relevan. Indeks kutipan adalah semacam basis data bibliografi, indeks kutipan antar publikasi, yang memungkinkan pengguna untuk dengan mudah menetapkan dokumen dan mengutip dokumen.
+Saat ini layanan pengindeksan kutipan utama adalah:
+
+SCI dan SCI-expanded: Diterbitkan oleh ISI bagian dari Thomson Reuters. Seperti disebutkan, SCI awalnya diproduksi oleh ISI dan dibuat oleh Eugene Garfield (1964). Basis data SCI memiliki dua tujuan, yaitu : 1) untuk mengidentifikasi apa yang telah diterbitkan oleh setiap peneliti, 2) untuk mengetahui di mana dan seberapa sering makalah oleh peneliti tersebut diterbitkan dan dikutip. Versi elektronik SCI disebut sebagai "Web of Science". 
+
+Scopus: Scopus (Elsevier) adalah database bibliografi yang berisi abstrak dan kutipan untuk artikel jurnal akademik. Ini mencakup 21.000 judul dari lebih dari 5000 penerbit dan hanya tersedia online.
+
+Indian citation index (ICI): Data kutipan online ICI adalah platform web baru untuk mengukur kinerja penelitian India secara berkala. Basis data bibliografi online ini diluncurkan pada tahun 2009. ICI mencakup lebih dari 800 jurnal yang diterbitkan dari India tentang sains, teknik, kedokteran, dan ilmu social
+
+CiteSeer dan Google Cendekia termasuk indeks yang tersedia secara online secara gratis. Empat situs bibliografi online utama antara lain MEDLINE, PubMed Central, ISI, dan Scopus
+
+[Tautan pengindeks jurnal](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4800951/)
+
 
 ## soal 10
 Apa yang dimaksud dengan h-indek? Jelaskan dengan memberikan rujukan yang digunakan. Hitunglah h-indeks seorang peneliti bila sitasi dari artike-artikel ilmiahnya adalah sebagai berikut.
