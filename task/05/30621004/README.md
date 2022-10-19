@@ -251,3 +251,55 @@ citation =  [6, 15, 9, 18, 6, 5, 10, 12, 6, 10, 14, 8, 11, 14, 12]
 ```
 
 + [Jawaban]()
+
+H-Index atau Indeks-h didefinisikan sebagai nilai maksimum h yang diberikan kepada penulis/jurnal yang telah menerbitkan setidaknya h makalah dan masing-masing telah dikutip setidaknya h kali. Indeks ini dirancang untuk meningkatkan ukuran yang lebih sederhana seperti jumlah total kutipan atau publikasi. H-index berbasis karya keilmuan berupa hasil penelitian yang dipublikasikan, hak patent atau HKI (Hak Kekayaan Intelektual) dan artikel-artikel yang diseminarkan dalam bentuk jurnal ilmiah, baik Seminar Nasional maupun Internasional. H-index sering dikenal dengan Hirsch Index atau Hirsch Number ini dapat diperoleh di media pengindeks publikasi seperti: Portal Garuda, Google Scholar, DOAJ (Directory of Open Access Journals), EBSCO, CrossRef, BASE (Bielefeld Academic Search Engine), ISJD, ISJD, SINTA, Scopus, dsb.
+Manfaat h-index : Bagi seorang dosen atau peneliti, h-index merupakan suatu hal yang sangat penting. Hal ini disebabkan h-index menjadi salah satu pertimbangan dana sponsor penelitian yang akan diperoleh untuk melakukan penelitian berikutnya. 
+H-index seseorang dapat dicari di media pengindeks seperti yang dijelaskan di atas dengan cara mengetikkan nama seseorang atau nama jurnal yang telah dipublikasikan. Disamping itu dapat juga ditelusuri dari nama jurnal yang menerbitkan atau dapat juga dari nama penerbit jurnal sekalipun.
+
+Cara Menghitung h-index dan i10-index
+Penentuan h-index didasarkan pada jumlah publikasi yang terindeks dan yang mensitasi atau mengutipannya. Seorang peneliti memiliki indeks-h jika ia memiliki paper sebanyak h dengan jumlah kutipan untuk setiap paper tersebut minimal sama dengan h juga. Misalnya seorang peneliti memiliki h-index dengan skor 10 artinya terdapat 10 artikel yang dikutip oleh minimal 10 artikel yang lain.
+Sedangkan arti dari i10-index adalah skor dari seorang peneliti dalam publikasi yang memiliki artikel yang disitasi oleh minimal 10 artikel yang lain. Misalnya seorang peneliti memiliki i10-index dengan skor 3, itu artinya bahwa terdapat 3 artikel yang dikutip oleh minimal 10 artikel lain.
+
+[Tautan h-index](https://muh-amin.com/apakah-h-index-itu-dan-bagaimana-cara-menghitungnya/)
+
+Contoh perhitungan h-indeks adalah sebagai berikut :
+
+
+| Paper 	| Jumlah sitasi |	h-indeks|
+|--------:|---------------|---------|
+|1	      |   18	        |     1   |
+|2	      |   15	        |     2   | 
+|3	      |   14	        |     3   |
+|4	      |   14	        |     4   |
+|5	      |   12	        |     5   |
+|6	      |   12	        |     6   |
+|7	      |   11	        |     7   |
+|8	      |   10	        |     8   |
+|9	      |   10	        |     9   |
+|10	      |   9	          |     0   |
+|11	      |   8	          |         |
+|12	      |   6	          |         |
+|13	      |   6	          |         |
+|14	      |   6           |	        |
+|15	      |   5           |	        |
+
+Cara menghitung h-index yaitu:
+• h-index 1 = ada 1 paper yang disitasi minimal satu kali
+• h-index 2 = ada 2 paper yang disitasi minimal dua kali
+• h-index 3 = ada 3 paper yang disitasi minimal tiga kali
+• h-index 4 = ada 4 paper yang disitasi minimal empat kali
+• h-index 5 = ada 5 paper yang disitasi minimal lima kali
+• h-index 6 = ada 6 paper yang disitasi minimal enam kali
+• h-index 7 = ada 7 paper yang disitasi minimal tujuh kali
+• h-index 8 = ada 8 paper yang disitasi minimal delapan kali
+• h-index 9 = ada 9 paper yang disitasi minimal sembilan kali
+
+Dari data akademisi di atas terlihat bahwa akademisi tersebut hanya memiliki 9 paper yang disitasi minimal 9 kali sehingga memberikan h-index = 9. Paper sisanya tidak berpengaruh pada perhitungan h-index.
+
+[Tautan perhitungan h-index](https://guides.library.uq.edu.au/for-researchers/h-index#:~:text=The%20h%2Dindex%20is%20a,a%20h%2Dindex%20of%2015)
+
+
+
+
+
+
