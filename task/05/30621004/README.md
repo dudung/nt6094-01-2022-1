@@ -111,6 +111,26 @@ Discussion : Bagian ini jelaskan tentang hasil yang didapatkan dari penelitian, 
 
 [Tautan mengenai IMRaD](https://thevisualcommunicationguy.com/writing/how-to-organize-a-paper/how-to-organize-a-paper-the-imrad-format/)
 
+Sumber lain menyebutkan bahwa IMRaD merupakan singkatan dari : 
+
+Intoduction (Pendahuluan) — Mengapa Anda melakukannya? 
+
+Method (Metode) — Bagaimana tepatnya Anda melakukannya? 
+
+Result (Hasil) — Apa yang Anda temukan? 
+
+and (Dan)
+
+Discussion (Diskusi) — Apa artinya dan lalu apa? 
+
+Menurut para ahli yang mengkhususkan diri dalam sejarah dan praktek penulisan ilmiah, IMRAD membantu penulis untuk mengatur ide, mengingat elemen penting, memudahkan editor dan reviewer untuk mengevaluasi naskah, dan meningkatkan efisiensi peneliti untuk menemukan informasi spesifik tanpa membaca seluruh manuskrip. Sebagian besar editor dan peneliti setuju bahwa IMRAD menyediakan kerangka kerja yang konsisten untuk memandu penulis menjawab beberapa pertanyaan penting terutama memahami studi ilmiah.
+
+[Tautan mengenai IMRaD](https://link.springer.com/article/10.1007/s10980-011-9674-3)
+
+Meskipun direkomendasikan sejak awal abad kedua puluh, struktur IMRAD diadopsi sebagai mayoritas pada tahun 1970-an. Pengaruh disiplin ilmu lain dan rekomendasi editor adalah salah satu fakta yang berkontribusi pada penulis untuk mematuhi penggunaan metode tersebut.
+
+[Tautan mengenai IMRaD](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC442179/)
+
 ## soal 4
 Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan Mermaid untuk menggambarkan urut-rutan bagian yang dikerjakan dan iterasi yang diperlukan. Cantumkan rujukan yang digunakan.
 
