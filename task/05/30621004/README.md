@@ -142,6 +142,20 @@ Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapa
 
 + [Jawaban]()
 
+Rancangan Acak Kelompok `RAK` dengan model matematika:  Yij = µ + βj + Ʈi +Ɛij  ; i = 1,2,…p; j = 1,2,…r
+
+Yij = µ + βj + Ʈi +Ɛij  ; i = 1,2,…p; j = 1,2,…r 
+
+Yij : respons pada perlakuan ke-i, ulangan ke-j
+
+µ   : rataan umum
+
+βj  : pengaruh blok ke-j
+
+Ʈi  : pengaruh perlakuan ke-i
+
+Ɛij :  eror atau galat pada perlakuan ke-I, ulangan ke-j
+
 
 ## soal 6
 Apakah yang dimaksud dengan jurnal pemangsa? Apakah yang dimaksud dengan penerbit pemangsa? Apakah perbedaannya dengan jurnal pemangsa? Jelaskan dengan memberikan rujukan yang digunakan.
