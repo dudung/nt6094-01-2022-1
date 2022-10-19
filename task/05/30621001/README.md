@@ -30,7 +30,8 @@ Saya dapat menentukan suatu jurnal termasuk dalam kategori Q4, Q3,Q2, Q1 yaitu d
 4.	Hasil akan ditampilkan dan berurutan   CiteScore secara default untuk melihat peringkat jurnal tertentu
 Jika ingin ke jurnal spesifik yaitu pertama masuk  ke Scopus Sources. Memilih  “TITLE” dari menu di kiri atas (di bawah judul Sumber). Memasukkan judul jurnal . Pada daftar hasil, klik tautan judul jurnal – ini akan mengarah ke berbagai data tentang jurnal tersebut
 
-Sumber :  https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/#WebofScience
+Sumber Rujukan  :  
+https://www.massey.ac.nz/study/library/researcher-support/publish-and-share-your-research/journal-ranking-and-impact/#WebofScience
 
 
 ## soal 2
@@ -55,7 +56,8 @@ Metode IMRAD merupakan salah satu metode struktur penulisan artikel ilmiah yang 
 •	Hasil : bagian ini menjelaskan tentang hasil penelitian yang telah dilakukan secara keseluruhan. Untuk membuatnya lebih ringkas, hasil penelitian dapat disajikan dalam bentuk tabel, grafik/gambar dan biasanya dalam penyajiannya  dimulai dengan narasi terlebih dahulu, lalu diikuti dengan tabel atau gambar.
 •	Diskusi : bagian ini merangkum temuan utama dalam penelitian, memberi argumen terhadap temuan atau hasil penelitian dan menghubungkannya dengan hasil terdahulu atau dengan kajian teori yang relevan. Bagian ini juga dapat mengutarakan keterbatasan penelitian yang dapat dijadikan acuan atau landasan untuk tambahan/masukan penelitian dimasa mendatang. 
 
-Referensi : https://writingcenter.gmu.edu/writing-resources/imrad/writing-an-imrad-report
+Sumber Rujukan  : 
+https://writingcenter.gmu.edu/writing-resources/imrad/writing-an-imrad-report
 
 
 ## soal 4
@@ -63,13 +65,37 @@ Terkait dengan struktur artikel limiah menurut IMRaD, buat diagram alir dengan M
 
 + [Jawaban]()
 
+```mermaid
+flowchart TD
+subgraph isi
+    a([Apa masalahnya, hal yang sudah dan belum diketahui, hipotesis,tujuan, kebaharuan])
+    b([Bagaimana cara untuk menjawab masalah ])
+    c([Jawaban penelitian])
+    d([Analisis dan batasan, implikasi,kesimpulan])
+    end
+subgraph IMRaD
+id1[Introduction]
+id2(Metode)
+id3(Result)
+id4[Discussion]
+end
+id1 --> a 
+id2 --> b
+id3 --> c
+id4 --> d
+```
+ 
+ Sumber Rujukan
+ (https://link.springer.com/article/10.1007/s10980-011-9674-3)    
 
 ## soal 5
 Cantumkan sebuah persamaan utama yang akan digunakan dalam penelitian Anda, dapat dalam bagian teori, pengambilan data, pengolahan data, ataupun analisis.
 
 + [Jawaban]()
-Rumus umum menghitung mikroorganisme dalam satuan CFU/mL(g) : 
-CFU/mL(g)=Jumlah koloni/jumlah sampel yang diinokulasi(ditanam)
+ 
+**Rumus umum menghitung mikroorganisme dalam satuan CFU/mL(g) **
+$$CFU/mL(g)=\frac{Jumlah koloni}{jumlah sampel yang diinokulasi(ditanam)}$$
+
 
 ## soal 6
 Apakah yang dimaksud dengan jurnal pemangsa? Apakah yang dimaksud dengan penerbit pemangsa? Apakah perbedaannya dengan jurnal pemangsa? Jelaskan dengan memberikan rujukan yang digunakan.
@@ -79,7 +105,8 @@ Apakah yang dimaksud dengan jurnal pemangsa? Apakah yang dimaksud dengan penerbi
 Jurnal pemangsa merupakan jurnal yang proses penerbitannya tidak melalui proses peninjauan ilmiah yang bisa dipertanggungjawabkan atau disebut juga jurnal yang kualitasnya diragukan. Sementara, Penerbit predator merupakan penerbit karya ilmiah yang di dalam proses penerbitannya tidak melalui proses peninjauan ilmiah atas naskah yang bisa dipertanggungjawabkan atau disebut sebagai penerbit yang kualitasnya diragukan.
 Jurnal atau penerbit  pemangsa dicirikan dengan memberikan informasi yang salah atau menyesatkan, penyimpangan dari praktik editorial dan etika publikasi, kurangnya transparansi, dan/atau penggunaan praktik “ajakan yang agresif dan sembarangan”. Menurut saya penggunaan istilah jurnal pemangsa dan penerbit pemangsa tidak berbeda atau sama, sebab jurnal pemangsa diproduksi oleh penerbit pemangsa. Penerbit disini adalah pihak yang mengorganisasi terpublikasinya jurnal ilmiah. 
 
-Referensi : 
+Sumber rujukan :
+
 https://www.nature.com/articles/d41586-019-03759-
 https://pak.kemdikbud.go.id/portalv2/jurnal-predator/
 https://beallslist.net/how-to-recognize-predatory-journals/
@@ -104,7 +131,8 @@ Jurnal Akses terbuka ini mempunyai manfaat yang besar diantaranya :
 •	Mempromosikan fokus interdisipliner penelitian dan kerjasama. Publikasi tersedia secara permanen dan independen dari penerbit tunggal mana pun.
 •	Memfasilitasi dan meningkatkan transfer pengetahuan antara komunitas akademik dan peneliti dan masyarakat secara keseluruhan.
 
-Sumber Referensi : 
+Sumber Rujukan :
+
 https://www.publisso.de/en/advice/publishing-advice-faqs/what-does-the-term-open-access-mean/
 https://www.researchgate.net/publication/351973017_What_Is_Open_Access
 
@@ -115,7 +143,8 @@ Apakah ada kaitan antara jurnal pemangsa dengan jurnal akses terbuka? Jelaskan d
 Menurut saya ada kaitannya.
 Seperti kita ketahui bahwa secara umum jurnal akses terbuka  ada yang sifatnya Free namun ada juga yang berbayar  dan  beberapa  jurnal akses terbuka ini biasanya mempunyai APC yang tidak murah. Sama dengan jurnal pemangsa yang tujuan utamanya  adalah mendapatkan  untung sebesar-besarnya dari penulis.  jurnal pemangsa bisa saja akan menipu penulis agar percaya bahwa mereka adalah penerbit sah, yang menawarkan peer-review dan jurnal akan terbit dengan cepat dengan cara membayar mahal. Jurnal pemangsa ini  akan memanfaatkan model penerbitan akses terbuka (Open Access) untuk memperoleh bayaran dari penulis, dengan syarat  menerima  (Accepted)  full-paper (jurnal) dari penulis. Hal inilah yang kemudian membuat sulitnya membedakan jurnal pemangsa dengan jurnal akses terbuka yang sifatnya berbayar. 
 
-Sumber referensi : 
+Sumber rujukan: 
+
 https://mcw.libguides.com/open-access/predatory-publishing#:~:text=Predatory%20publishers%20trick%20authors%20into,all%20papers%20submitted%20to%20them.
 https://www.youtube.com/watch?v=crDKooW_2kU&t=42s
 
@@ -134,9 +163,11 @@ merupakan pengindeks internasional kelas menengah yang memuat jurnal-jurnal Open
 3. Scopus : 
 Merupakan salah satu layanan indeksasi dan penyedia database atau pusat data jurnal yang berada di bawah naungan Elsevier, sebuah organisasi atau perusahaan penerbit publikasi ilmiah internasional yang berbasis di Amsterdam, Belanda, dan berdiri sejak 1880. Saat ini Scopus telah mengindeks lebih dari 22.000 judul artikel jurnal dari 5000 lebih penerbit.  Link website scopus(https://www.scopus.com)
 
-Sumber referensi 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3354504/
+Selain ketiga pengindeks yang telah disebutkan, Web of science, Taylor & Francis, Wiley Online Library, PubMed, Index Copernicus dan lain-lain
+Sumber rujukan : 
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3354504/
+https://penerbitdeepublish.com/jurnal-internasional-terakreditasi/
 
 ## soal 10
 Apa yang dimaksud dengan h-indek? Jelaskan dengan memberikan rujukan yang digunakan. Hitunglah h-indeks seorang peneliti bila sitasi dari artike-artikel ilmiahnya adalah sebagai berikut.
@@ -156,4 +187,5 @@ Cara menghitungnya atau menentukan h indeksnya dapat dilihat dari seberapa banya
 •	Indeks i-10 = 12 (terdapat 12 paper yang disitasi minimal  sebanyak 10 kali)
 
 Sumber rujukan : 
+
 https://beckerguides.wustl.edu/authors/hindex
