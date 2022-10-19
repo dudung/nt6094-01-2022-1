@@ -202,12 +202,26 @@ Open Access (OA), dalam konteks penerbitan ilmiah, adalah istilah yang digunakan
 
 [Tautan jurnal akses terbuka](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020961)
 
+Akses terbuka (OA) berarti membuat publikasi penelitian tersedia secara bebas sehingga siapa pun dapat memperoleh manfaat dari membaca dan menggunakan penelitian tersebut. Akses terbuka bisa lebih dari sekadar membuat penelitian tersedia untuk dibaca, tetapi memungkinkan orang lain untuk menggunakan kembali penelitian tersebut. Misalnya, mengizinkan konten untuk dianalisis atau digunakan kembali untuk tujuan komersial. Akses terbuka merupakan bagian dari gerakan ‘terbuka’ untuk mendorong pertukaran pengetahuan dan sumber daya secara bebas guna memperluas akses dan mendorong kreativitas.
+
+[Tautan jurnal akses terbuka](https://www.jisc.ac.uk/guides/an-introduction-to-open-access)
+
+DOAJ (Directory of Open Access Journals) merupakan web indeks independent yang diluncurkan pada tahun 2003 dengan 300 jurnal akses terbuka. Saat ini, ini berisi hampir 17.500 jurnal peer-review, akses terbuka yang mencakup semua bidang sains, teknologi, kedokteran, ilmu sosial, seni, dan humaniora. Jurnal akses terbuka dari semua negara dan dalam semua bahasa diterima untuk pengindeksan.
+
+[Tautan DOAJ](https://doaj.org/)
 
 ## soal 8
 Apakah ada kaitan antara jurnal pemangsa dengan jurnal akses terbuka? Jelaskan dengan memberikan rujukan yang digunakan.
 
 + [Jawaban]()
 
+Jurnal predator menggunakan model bisnis berdasarkan APC (article processing charge) atau biaya publikasi, seperti halnya banyak jurnal akses terbuka bereputasi. Namun, jurnal akses terbuka yang terpercaya biasanya akan membebankan biaya hanya setelah diputuskan untuk menerima artikel berdasarkan hasil tinjauan sejawat, dan tidak sebelumnya.
+
+[Tautan kaitan jurnal pemangsa dan jurnal akses terbuka](https://www.leibniz-gemeinschaft.de/fileadmin/user_upload/Bilder_und_Downloads/Forschung/Open_Science/Guide_PredatoryPublishing_2018.pdf)
+
+Penulis yang menginginkan artikel lebih mudah diakses oleh publik memiliki pilihan untuk membayar sendiri atau mengidentifikasi sumber pendanaan untuk membantu membeli hak cipta artikel mereka dari penerbit tradisional. Hal ini memungkinkan penerbit untuk mempertahankan kontrol kualitas dan tetap menguntungkan sekaligus memungkinkan karya ilmiah tersedia untuk masyarakat, melalui proses yang dikenal sebagai akses terbuka (OA). Jurnal OA telah berkembang pesat, tetapi OA mengubah model bisnis jurnal. Dalam model tradisional, pembaca adalah pelanggan, sedangkan untuk banyak jurnal OA, penulis artikel adalah fokusnya. Dengan model OA, menerbitkan lebih banyak artikel dan menghasilkan lebih banyak pendapatan dari penulis dalam bentuk APC. Bentuk negatif dari model OA muncul dalam bentuk jurnal predator, yang mendorong penulis untuk membayar APC untuk artikel tetapi tidak terlibat dalam proses peninjauan yang sesuai prosedur. 
+
+[Tautan kaitan jurnal pemangsa dan jurnal akses terbuka](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7520066/)
 
 ## soal 9
 Apa yang dimaksud dengan pengindeks jurnal? Sebutkan beberapa di antaranya yang Anda kenal. Cantumkan rujukan yang digunakan.
