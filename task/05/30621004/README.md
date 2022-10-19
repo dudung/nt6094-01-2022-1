@@ -198,6 +198,10 @@ Apa yang dimaksud dengan jurnal akses terbuka? Jelaskan dengan memberikan rujuka
 
 + [Jawaban]()
 
+Open Access (OA), dalam konteks penerbitan ilmiah, adalah istilah yang digunakan untuk merujuk pada akses online tak terbatas ke artikel yang dipublikasikan di jurnal ilmiah. Terdapat dua cara berbeda untuk memperoleh aksesibiliti terbuka ke hasil-hasil penelitian ilmiah yaitu Gold Open Access dan Green Open Access. **Gold Open Access** adalah bentuk open access yang dilakukan oleh penerbit dimana dokumen dikirimkan, mencakup spektrum yang beragam dari publikasi termasuk dari penerbit kecil sampai penerbit besar pada rentang waktu yang sama, dan dapat dikelompokan kembali berdasarkan tingkat atau ketersediaan konten jurnal.  **Green Open Access** adalah bentuk open access oleh penulis dengan mengarsipkan sendiri karya tulisnya, baik berupa manuskrip versi pracetak dari manuskrip yang diterima untuk diterbitkan dalam jurnal ilmiah, atau manuskrip yang telah diterbitkan. Pengarsipan sendiri oleh penulis dapat dilakukan dengan mengunggah makalah ke beranda pribadi penulis ata ke repository penulis, ataupun ke repository berbasis subjek di bidang ilmu tertenti seperti ArVix di bidang fisika, PubMedCentral untuk riset biomedis dan life science. 
+
+[Tautan jurnal akses terbuka](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020961)
+
 
 ## soal 8
 Apakah ada kaitan antara jurnal pemangsa dengan jurnal akses terbuka? Jelaskan dengan memberikan rujukan yang digunakan.
